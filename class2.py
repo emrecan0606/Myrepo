@@ -27,7 +27,7 @@ while True:
         element=next(iter_obj)
         print(element)
     except StopIteration:
-            print("I am done")
+            print("I finished")
             break
                 
     

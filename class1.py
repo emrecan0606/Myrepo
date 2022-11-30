@@ -31,7 +31,7 @@ class Student(Person):
 
 
 
-p1=Person("John")
+p1=Person("Johnnnes")
 s1=Person("adam","adam54")
 
 print(s1)
